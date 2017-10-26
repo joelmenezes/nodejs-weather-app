@@ -26,7 +26,7 @@ node app-promise.js -a <Your Location>
 node app.js -a 400001 
 ```
 ```
-node app-promise.js -a 350 5th Ave, New York, NY 10118 
+node app-promise.js -a "350 5th Ave, New York, NY 10118" 
 ```
 
 ### Documentation
