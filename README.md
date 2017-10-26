@@ -11,27 +11,22 @@ Ensure that you have [node](https://nodejs.org/en/) installed before proceeding.
 Run the following command to install the dependencies required:
 ```
 npm install 
-
 ```
 
 Run either of the following commands to run the application:
 ```
 node app.js -a <Your Location> 
-
 ```
 ```
 node app-promise.js -a <Your Location> 
-
 ```
 
 ### Examples
 ```
 node app.js -a 400001 
-
 ```
 ```
 node app-promise.js -a 350 5th Ave, New York, NY 10118 
-
 ```
 
 ### Documentation
