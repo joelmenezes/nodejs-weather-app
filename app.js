@@ -3,7 +3,8 @@ const yargs = require('yargs');
 
 const geocode = require('./geocode/geocode');
 const weather = require('./weather/weather');
-// Getting address from user using CLI and encoding it to a URI
+
+// Getting address from user using CLI
 const argv = yargs.options({
 	a: {
 		demand: true,
